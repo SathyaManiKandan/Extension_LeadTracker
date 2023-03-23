@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+}
+
+
+
+input{
+    width: 100% ;
+    box-sizing: border-box;
+    padding: 10PX;
+    margin-bottom: 2px;
+}
+
+
+button{
+    background-color: #5f9341;
+    border: none;
+    padding: 10px 20px;
+    color: aliceblue;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+
+}
+
+
+#delete-btn {
+    color: #5f9341;
+    border: 1px solid #5f9341 ;
+    background-color: aliceblue;
+    padding: 8px 18px;
+
+
+    
+}
+
+ul{
+    list-style: none;
+    padding-left: 0;
+    margin-top: 20px;
+}
+li{
+  margin-top: 5px;
+}
+
+li  a{
+    color: #5f9341;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
